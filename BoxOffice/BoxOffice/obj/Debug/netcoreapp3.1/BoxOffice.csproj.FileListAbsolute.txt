@@ -1,0 +1,14 @@
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.exe
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.deps.json
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.runtimeconfig.json
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.runtimeconfig.dev.json
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.dll
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp3.1\BoxOffice.pdb
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.csproj.AssemblyReference.cache
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.AssemblyInfo.cs
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.dll
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.pdb
+C:\Users\vld85\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp3.1\BoxOffice.genruntimeconfig.cache
